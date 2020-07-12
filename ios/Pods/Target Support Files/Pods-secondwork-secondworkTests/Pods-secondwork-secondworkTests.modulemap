@@ -1,0 +1,6 @@
+module Pods_secondwork_secondworkTests {
+  umbrella header "Pods-secondwork-secondworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

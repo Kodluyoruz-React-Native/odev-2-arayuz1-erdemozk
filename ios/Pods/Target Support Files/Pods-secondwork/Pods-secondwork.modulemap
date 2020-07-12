@@ -1,0 +1,6 @@
+module Pods_secondwork {
+  umbrella header "Pods-secondwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
